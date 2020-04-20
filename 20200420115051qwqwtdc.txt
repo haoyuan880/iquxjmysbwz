@@ -1,4 +1,4 @@
-vmess=ru01-just-50.ddns.566366.xyz:443, method=none, password=307137ef-9670-3b05-b8c3-0f19a89199e9, obfs-host=ru01-just-50.ddns.566366.xyz, obfs=wss, obfs-uri=/wmsxwd, fast-open=false, udp-relay=false, tag=rus1Netflix
+vmess=ru01-just-50.ddns.566366.xyz:443, method=none, password=307137ef-9670-3b05-b8c3-0f19a89199e9, obfs-host=ru01-just-50.ddns.566366.xyz, obfs=wss, obfs-uri=/wmsxwd, fast-open=false, udp-relay=false, tag=[V2ray]rus1Netflix
 vmess=ttk02zz.ddns.566366.xyz:10099, method=none, password=307137ef-9670-3b05-b8c3-0f19a89199e9, obfs-host=ttk02zz.ddns.566366.xyz, obfs=wss, obfs-uri=/wmsxwd, fast-open=false, udp-relay=false, tag=[V2ray]rus2Netflix
 vmess=in.ddns.357159.xyz:80, method=none, password=307137ef-9670-3b05-b8c3-0f19a89199e9, obfs-host=in.ddns.357159.xyz, obfs=wss, obfs-uri=/wmsxwd, fast-open=false, udp-relay=false, tag=[V2ray]yindu1×1teshu
 vmess=tw.566366.xyz:10092, method=none, password=307137ef-9670-3b05-b8c3-0f19a89199e9, obfs=over-tls, fast-open=false, udp-relay=false, tag=[V2ray]tw01-HiNet-×1-Netflix
